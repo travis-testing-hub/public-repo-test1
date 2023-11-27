@@ -1,2 +1,2 @@
 os: linux
-script: echo 'testing12345...'
+script: echo 'testing...'
